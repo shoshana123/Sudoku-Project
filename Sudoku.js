@@ -95,8 +95,7 @@ function includes1to9(subsection) {
   } 
   return true;
 }
-// includes1to9([1,2,3,4,5,6,7,8,9]) // => true
-// includes1to9([1,1,2,3,4,5,6,7,8]) // => false (no 9)
+
 
 // Get Column Function  
 function getColumn(puzzle,column) {
